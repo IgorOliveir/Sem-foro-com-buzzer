@@ -1,1 +1,1 @@
-
+Esse projeto é basicamente um semáforo comum de carros e pedestres com o diferencial de se ter uma espécie de alarme quando o sinal de pedetres estiver verde, desta forma deficientes visuais podem saber quando é seguro atravessar a rua ou aguardar
