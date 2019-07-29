@@ -44,7 +44,7 @@ void loop()
   }
   digitalWrite(carroVermelho, LOW);  
 
-  if (pedVerde = 1) {
+  if (pedVerde, HIGH) {
    digitalWrite(buzzer, HIGH);
 
   }
